@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd11ff39-ef9a-41ef-a1ed-0d1aeea38ece" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/java_tools/maven/apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1rTGivoWRV6s7bfHAkJhyTlXNWu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554910480524" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\qingcheng\qingcheng_parent\qingcheng_service_goods\src\main\resources" />
+      <recent name="E:\qingcheng\qingcheng_parent\qingcheng_common_service\src\main\java\com\qingcheng\util" />
+      <recent name="E:\qingcheng\qingcheng_parent\qingcheng_web_manager\src\main\webapp\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd11ff39-ef9a-41ef-a1ed-0d1aeea38ece" name="Default Changelist" comment="" />
+      <created>1554714787668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554714787668</updated>
+      <workItem from="1554714791909" duration="6130000" />
+      <workItem from="1554737525554" duration="12000" />
+      <workItem from="1554768883348" duration="16405000" />
+      <workItem from="1554824178233" duration="8000" />
+      <workItem from="1554909657813" duration="1583000" />
+      <workItem from="1554953708452" duration="9076000" />
+      <workItem from="1555030972749" duration="12443000" />
+      <workItem from="1618992798947" duration="1763000" />
+      <workItem from="1619000536902" duration="3881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1619171641351">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1619171641351" />
+    <state width="1323" height="254" key="GridCell.Tab.0.bottom" timestamp="1619171643122">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1619171643122" />
+    <state width="1323" height="254" key="GridCell.Tab.0.center" timestamp="1619171643121">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1619171643120" />
+    <state width="1323" height="254" key="GridCell.Tab.0.left" timestamp="1619171643120">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1619171643120" />
+    <state width="1323" height="254" key="GridCell.Tab.0.right" timestamp="1619171643121">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="254" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1619171643121" />
+    <state x="263" y="103" key="IDE.errors.dialog" timestamp="1619000903840">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="103" key="IDE.errors.dialog/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1619000903840" />
+    <state x="161" y="13" width="1205" height="711" key="SettingsEditor" timestamp="1619100969780">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="161" y="13" width="1205" height="711" key="SettingsEditor/0.0.1366.738/1366.0.1600.1170@0.0.1366.738" timestamp="1619100969780" />
+  </component>
+</project>
